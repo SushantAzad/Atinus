@@ -135,4 +135,3 @@ Feel free to contribute by submitting issues or pull requests to the repository.
 ## Contact
 
 For more information or queries, contact the developer at [sushantazad007@gmail.com](mailto:sushantazad007@gmail.com)
-ls
